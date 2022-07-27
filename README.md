@@ -7,7 +7,6 @@ I am a fresher in the field of Software Engineering who works on Projects relate
 
 - 🔭 I’m currently working on a Automobile Project based on C++
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me: [Instagram]( https://www.instagram.com/somik_das/) and [Linkedin](https://www.linkedin.com/in/somikdas443/)
 
 
 ## 🌐 You can also find in
